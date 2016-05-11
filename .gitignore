@@ -1,2 +1,4 @@
+.gitignore
 .settings
 .project
+main.log
